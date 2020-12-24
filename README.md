@@ -1,5 +1,5 @@
 # jito_app
-
+`Vue.js` 로 처음 만들어 보는 `Application`
 ## Project setup
 ```
 npm install
